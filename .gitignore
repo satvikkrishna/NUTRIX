@@ -3,3 +3,10 @@ node_modules/
 .next/
 dist/
 build/
+.DS_Store
+*.log
+
+# AI tooling
+.claude/
+.mcp.json
+.cursorrules
