@@ -7,6 +7,5 @@ build/
 *.log
 
 # AI tooling
-.claude/
 .mcp.json
 .cursorrules

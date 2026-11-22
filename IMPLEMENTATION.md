@@ -1,9 +1,8 @@
 # IMPLEMENTATION.md
 
 A technical deep-dive into how NUTRIX works, for anyone extending the
-codebase. For setup instructions see [README.md](README.md); for
-gotchas/conventions see [CLAUDE.md](CLAUDE.md); for what's planned
-next see [FUTURE.md](FUTURE.md).
+codebase. For setup instructions see [README.md](README.md); for what's
+planned next see [FUTURE.md](FUTURE.md).
 
 ## Data flow
 
